@@ -1,7 +1,6 @@
 # Portfolio
 
-Based on Portfolio by @rjskhr on Github for the template
-
+Based on Portfolio by @rjskhr on Github
 Feel free to clone and modify :)
 
 ## License
