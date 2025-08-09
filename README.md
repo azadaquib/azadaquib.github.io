@@ -1,12 +1,9 @@
-# Cleanfolio Minimal
+# Portfolio
 
-A portfolio template built with HTML, CSS, and JavaScript.
-
-## Preview
-
+Based on Portfolio by @rjskhr on Github for the template
 [![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rjshkhr.github.io/cleanfolio-minimal)
 
-[Live Demo](https://rjshkhr.github.io/cleanfolio-minimal)
+Feel free to clone and modify :)
 
 ## License
 
